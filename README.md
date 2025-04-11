@@ -18,6 +18,8 @@
 
 ## Features
 
+Talkverse.ai is a comprehensive AI chatbot platform with a wide range of advanced features:
+
 - [Next.js](https://nextjs.org) App Router
   - Advanced routing for seamless navigation and performance
   - React Server Components (RSCs) and Server Actions for server-side rendering and increased performance
@@ -54,7 +56,6 @@ Key components:
 - **Dynamic Providers Module**: Creates custom providers based on user preferences and aliases
 - **Feature Flags System**: Controls the rollout of new features with granular control
 - **User API Keys Management**: Securely stores and manages user API keys with validation
-- User API Keys Management: Securely stores and manages user API keys
 
 #### Human-in-the-Loop (HITL)
 
@@ -114,7 +115,11 @@ The application ships with two default MCP servers:
 Artifacts provide a workspace-like interface alongside the chat interface, similar to ChatGPT's Canvas and Claude's Artifacts:
 - Text Artifact: Work with text content like drafting essays and emails
 - Code Artifact: Write and execute code (Python)
-- Image Artifact: Work with images (editing, annotating, processing)
+- Image Artifact: Work with images (generation, editing, annotating, processing)
+  - AI-powered image generation using advanced image models
+  - Generate images from text descriptions or titles
+  - Version history with undo/redo capabilities
+  - Easy copying of generated images to clipboard
 - Sheet Artifact: Work with tabular data (creating, editing, analyzing)
 
 Custom artifacts can be created by adding new folders to the `artifacts` directory with client and server components.
