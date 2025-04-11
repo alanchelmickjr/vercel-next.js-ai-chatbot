@@ -168,7 +168,7 @@ Visit [chat.talkverse.ai](https://chat.talkverse.ai) to use our fully-managed ve
 
 You can deploy your own version of Talkverse.ai to Vercel with one click:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fai-chatbot&env=AUTH_SECRET,OPENAI_API_KEY,KV_URL,KV_REST_API_URL,KV_REST_API_TOKEN,KV_REST_API_READ_ONLY_TOKEN&envDescription=Learn%20more%20about%20how%20to%20get%20the%20API%20Keys%20for%20the%20application&envLink=https%3A%2F%2Fgithub.com%2Fvercel%2Fai-chatbot%2Fblob%2Fmain%2F.env.example&demo-title=Talkverse.ai&demo-description=An%20Advanced%20AI%20Chatbot%20Platform%20Built%20by%20Mira%20AI%20with%20Next.js%20and%20the%20AI%20SDK%20by%20Vercel.&demo-url=https%3A%2F%2Fchat.talkverse.ai&stores=[{%22type%22:%22postgres%22},{%22type%22:%22blob%22},{%22type%22:%22kv%22}])
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=[https%3A%2F%2Fgithub.com%2Fvercel%2Fai-chatbot](https://github.com/alanchelmickjr/vercel-next.js-ai-chatbot)&env=AUTH_SECRET,OPENAI_API_KEY,KV_URL,KV_REST_API_URL,KV_REST_API_TOKEN,KV_REST_API_READ_ONLY_TOKEN&envDescription=Learn%20more%20about%20how%20to%20get%20the%20API%20Keys%20for%20the%20application&envLink=https%3A%2F%2Fgithub.com%2Fvercel%2Fai-chatbot%2Fblob%2Fmain%2F.env.example&demo-title=Talkverse.ai&demo-description=An%20Advanced%20AI%20Chatbot%20Platform%20Built%20by%20Mira%20AI%20with%20Next.js%20and%20the%20AI%20SDK%20by%20Vercel.&demo-url=https%3A%2F%2Fchat.talkverse.ai&stores=[{%22type%22:%22postgres%22},{%22type%22:%22blob%22},{%22type%22:%22kv%22}])
 
 ## Running locally
 
